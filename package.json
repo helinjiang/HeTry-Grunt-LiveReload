@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "helinjiang/HeTry-Grunt-LiveReload/"
+    "url": "https://github.com/helinjiang/HeTry-Grunt-LiveReload.git"
   },
   "keywords": [
     "livereload",
